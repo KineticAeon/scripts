@@ -3,10 +3,9 @@
 # FUCK THIS SCRIPT I'M GONNA GO LEARN PYTHON
 # (after realizing python and rust were both too big for this, she gave up)
 
-# automated minecraft server start script
+# nice minecraft server start script
 # needs wget and jq
-# made with love by nia <3, 2023
-# https://github.com/KineticAeon/NAS
+# https://github.com/KineticAeon/scripts
 
 # set server version and ram (in gb) here
 VERSION="spigot-1.20.1"
